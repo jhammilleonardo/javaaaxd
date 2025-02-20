@@ -1,9 +1,10 @@
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
+img {
+    width: 50%;
+    max-width: 900px;
+    height: auto;
+    display: block;
 }
+
 .titulo {
     display: flex;
     justify-content: center;
